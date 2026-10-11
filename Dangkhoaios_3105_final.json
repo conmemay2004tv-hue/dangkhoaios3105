@@ -1,0 +1,1374 @@
+{
+  "schemaVersion": 1,
+  "identifier": "qphungios.com",
+  "name": "Dangkhoaios.official",
+  "description": "Dangkhoaios.official | Zalo: 0389643121",
+  "accentColor": "#008080",
+  "icon": "assets/icon.png",
+  "packages": [
+    {
+      "identifier": "aimbotsh",
+      "name": "Dangkhoaios | FFM AVT BYPASS ( SẢNH )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmnewbypass.3105",
+      "sha256": "b06a76de90c544e16edafe6ed835a245ced20d8ae12e51793a5f2686ce6e44ea",
+      "size": 48470,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbot2nsns",
+      "name": "Dangkhoaios | FFTH AVT BYPASS ( SẢNH )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthnewbypass.3105",
+      "sha256": "f99a57e2e66c58f8d66badeda21ab63e4f24b8909703c3645a47d423cb6b04bd",
+      "size": 47924,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "shadow",
+      "name": "Dangkhoaios | fixban - qphungios",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/fixban.3105",
+      "sha256": "fe1e04a8bc9d84cdacbccd6a72f03317a137212b5a50df0ac63e29f0608ed66c",
+      "size": 1369454,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/shadow.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbot2sb",
+      "name": "Dangkhoaios | FFM AIMHEAD ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmhead.3105",
+      "sha256": "0195ce005482c7f7fa13a971c2da210c75767e4939674607c4591171fe745a80",
+      "size": 50828,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaimbot2",
+      "name": "Dangkhoaios | FFTH AIMHEAD ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthhead.3105",
+      "sha256": "acfee9dbcf693a13616c0922aee17c0132a4799a909846f602ca05cebcf6e689",
+      "size": 50280,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimtra2sb",
+      "name": "Dangkhoaios | FFM AIMDRAG ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmdrag.3105",
+      "sha256": "611efdedb210a78ea0b039e6390ce06e11118d84a54564754dce7c6af9f07e98",
+      "size": 50605,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaimrag2",
+      "name": "Dangkhoaios | FFTH AIMDRAG ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthdrag.3105",
+      "sha256": "91806626299d0cedb044105e833e11a98f4d0435444e96b5e37e9beb75b750c8",
+      "size": 50057,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbaj",
+      "name": "Dangkhoaios | FFM AIMCHEST ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmchest.3105",
+      "sha256": "e12671fc64f2281e212de2b4e820e1eea38c62aad6ee48350e79e9090fbd0849",
+      "size": 42505,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaag2hh",
+      "name": "Dangkhoaios | FFTH AIMCHEST ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthchest.3105",
+      "sha256": "3bacfc4626a0b10f5e52761db9d7317846ff45c127378a8575bbd0fc7de103ec",
+      "size": 42501,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbamm",
+      "name": "Dangkhoaios | FFM AIM DỊ TẬT ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmditat.3105",
+      "sha256": "be4c157d439cfecbcecccaa7b4f7896cab001e782e66511f93e7473a1b8415c4",
+      "size": 48484,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhsj",
+      "name": "Dangkhoaios | FFTH AIM DỊ TẬT ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthditat.3105",
+      "sha256": "bcd8a720cbb17a1327f59dd00b064e2a9871703d1fff09a3fc3e96268ab8126a",
+      "size": 47939,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aiantendj",
+      "name": "Dangkhoaios | FFM AIMNECK ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmneck.3105",
+      "sha256": "b7dcd0ad5895bee567416c04fff30b8f7925eb313471837901c3edba1580682a",
+      "size": 48467,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "dbnhaneck",
+      "name": "Dangkhoaios | FFTH AIMNECK ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthneck.3105",
+      "sha256": "6d2efef9a65ea4674d18186ff8ba28fc24bdda497acbcf60d8721c9fd3cae407",
+      "size": 47919,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "naimgaci",
+      "name": "Dangkhoaios | FFM MAGIC ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmmagic.3105",
+      "sha256": "c576708b3a1ae13f1d4962c6adbbd4aa371f2975a423d3ad28fddd7f648c7d8e",
+      "size": 48465,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnGuc",
+      "name": "Dangkhoaios | FFTH MAGIC ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthmagic.3105",
+      "sha256": "8c85553a3f27f04190081eb40aa025549fa37760b302467d954045197b79a54a",
+      "size": 48461,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bungfm",
+      "name": "Dangkhoaios | FFM AIM BỤNG ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmbung.3105",
+      "sha256": "b53facb7dc1f4571c87a24d681a6ad321be813fb2b11984fe9b48c0f3e7e0f41",
+      "size": 48480,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bungfth",
+      "name": "Dangkhoaios | FFTH AIM BỤNG ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthbung.3105",
+      "sha256": "267c18ec2508214c2cee4dce88661602808bbbe221276af93c27b6816d4ab2f3",
+      "size": 47933,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hedten",
+      "name": "Dangkhoaios | FFM HEAD + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmheadanten.3105",
+      "sha256": "5547ca5d3a501f44ca63ae99223bdc77316dbe4c16cce06c37fa3228ffda27e2",
+      "size": 48475,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hedfthtn",
+      "name": "Dangkhoaios | FFTH HEAD + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthheadanten.3105",
+      "sha256": "60f49a2bf5921cafa438e515b7cca450205bb3ec5228a40c65cce9bda99d5454",
+      "size": 47927,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "dragten",
+      "name": "Dangkhoaios | FFM DRAG + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmdragantena.3105",
+      "sha256": "9932d959b4fd21f4279d2c56b64b4f6b6d399bfa271b3e6110b89af3421ebea2",
+      "size": 49103,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "dragfthtn",
+      "name": "Dangkhoaios | FFTH DRAG + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthdragantena.3105",
+      "sha256": "78b1e232d125e2d09f641e75883ff891e061d7aae33325a5d5d0cbb9d18ee53b",
+      "size": 48555,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hebungen",
+      "name": "Dangkhoaios | FFM BỤNG + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmbungantena.3105",
+      "sha256": "ee2ece9a252efd00819ae8f51b29bb5c026e89a9ed5627e636fffb9284ffd31d",
+      "size": 49120,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bungathtn",
+      "name": "Dangkhoaios | FFTH BỤNG + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthbungantena.3105",
+      "sha256": "988fdb49e042e3d11377ed5a5897970e2196e3fa47ff075c75934ee0b9818e50",
+      "size": 48573,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hnekten",
+      "name": "Dangkhoaios | FFM NECK + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmneckantena.3105",
+      "sha256": "5c83a97d79258035ca92028c414d1803c5cd59727c6865377801137ff7babecd",
+      "size": 43140,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "ndckfthtn",
+      "name": "Dangkhoaios | FFTH NECK + ANTENA ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthneckantena.3105",
+      "sha256": "ed7419906d60f22b03947a5b13886c6ab2b8e49dfd3ab7f5eea4f9929b75d574",
+      "size": 43136,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hedtdagen",
+      "name": "Dangkhoaios | FFM DRAG CAP USP ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmdragv2.3105",
+      "sha256": "b5c02b59741ec6ac1965816985d86c4d3b6377d849bfb251332abcf5dcc32068",
+      "size": 49126,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hedgajfthtn",
+      "name": "Dangkhoaios | FFTH DRAG CAP USP( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthdragv2.3105",
+      "sha256": "770486a9a3486e35fee83d38b4b266103402e8b37ba27570ba93a2daabe2dc4e",
+      "size": 48579,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "hedtenbuoi",
+      "name": "Dangkhoaios | FFM AIM BUOI ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmbuoi.3105",
+      "sha256": "125532d8e5cef43d7c1356722e86814677f93054d6a4c6b3df1ebba34432482a",
+      "size": 48564,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "buoihedfthtn",
+      "name": "Dangkhoaios | FFTH AIM BUOI ( 40% )",
+      "author": "Dangkhoaios.official",
+      "version": "1.0.0",
+      "summary": "Dangkhoaios.official",
+      "description": "Zalo: 0389643121",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "Dangkhoaios.official"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthbuoi.3105",
+      "sha256": "7ff244fecefa4d888cf51235be7f89bf2618eeb543db2677166581bae8c6ade0",
+      "size": 48561,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_3456.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    }
+  ],
+  "author": "Dangkhoaios.official"
+}
